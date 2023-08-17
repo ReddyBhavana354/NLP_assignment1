@@ -5,3 +5,8 @@ after downloading the above packages run the second loop which will five the pro
 after that the next cell will give the results of emmision probabilities
 the next cell is veterbi model where we get the hmm chain
 
+This project was done by
+1) Reddy Bhavana
+2) Desai Divyeswar Reddy
+3) Kajal
+
